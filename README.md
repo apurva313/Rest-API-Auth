@@ -188,7 +188,7 @@ After installing the authenticator app, use the `/api/auth/2fa/generate` endpoin
 
 ## Postman Collection
 
-You can import the provided Postman collection to test the API endpoints. [Download Postman Collection](https://www.postman.com/collections/your-postman-collection-link)
+You can import the provided Postman collection to test the API endpoints. [Download Postman Collection](https://api.postman.com/collections/32225191-6470fe88-d866-4d52-99f8-35b1241df921?access_key=PMAT-01J7KE03RRMV152QZV5NS6W5X8)
 
 ## Contributing
 
