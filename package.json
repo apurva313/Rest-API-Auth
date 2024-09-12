@@ -1,0 +1,31 @@
+{
+  "name": "rest-api-auth",
+  "version": "1.0.0",
+  "description": "This is Rest API Auth",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ghg"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Apurva Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "nedb-promises": "^6.2.3",
+    "node-cache": "^5.1.2",
+    "otplib": "^12.0.1",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
