@@ -1,0 +1,84 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Directory for local development builds
+dist/
+build/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Parcel-bundler cache (if using Parcel)
+.cache/
+
+# Next.js build output (if using Next.js)
+.next/
+
+# Nuxt.js build output (if using Nuxt.js)
+.nuxt/
+dist/
+
+# Svelte build output (if using Svelte)
+.svelte-kit/
+__sapper__/
+
+# Gatsby files
+.cache/
+public/
+
+# Gridsome files
+.cache/
+public/
+
+# Docker files (if using Docker)
+docker-compose.yml
+Dockerfile
+
+# VSCode settings
+.vscode/
+
+# IntelliJ IDEA settings
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Exclude test coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Ignore yarn.lock, package-lock.json, and pnpm-lock.yaml if using another package manager
+# Uncomment the line below based on the package manager you're not using
+# yarn.lock
+# package-lock.json
+# pnpm-lock.yaml
