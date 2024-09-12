@@ -5,10 +5,11 @@ This project is a REST API for authentication and authorization, including suppo
 ![Rest-API-Auth](https://github.com/user-attachments/assets/765a89d0-ae72-4349-aa1a-0f5ebe6fb596)
 
 
-## Author
+## 🚀 About Me
 
-- **GitHub:** [Apurva Kumar](https://github.com/apurva313)
-- **LinkedIn:** [Apurva Kumar](https://www.linkedin.com/in/apurva313)
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apurva313)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/apurva313)
+
 
 ## Getting Started
 
